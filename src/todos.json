@@ -1,0 +1,34 @@
+{
+    "todos":[
+        {
+            "titulo": "Task 1",
+            "responsable": "Mark",
+            "descripcion": "lorem ipip",
+            "prioridad": "low"
+        },
+        {
+            "titulo": "Task 2",
+            "responsable": "Ryan",
+            "descripcion": "lorem ipip2",
+            "prioridad": "medium"
+        },
+        {
+            "titulo": "Task 3",
+            "responsable": "Ruben",
+            "descripcion": "lorem ipip3",
+            "prioridad": "high"
+        },
+        {
+            "titulo": "Task 4",
+            "responsable": "Aiaiai",
+            "descripcion": "lorem ipip4",
+            "prioridad": "low"
+        },
+        {
+            "titulo": "Task 5",
+            "responsable": "Aalaala",
+            "descripcion": "lorem ipip5",
+            "prioridad": "high"
+        }
+    ]
+}
